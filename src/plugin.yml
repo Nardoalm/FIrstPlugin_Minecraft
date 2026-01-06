@@ -1,0 +1,4 @@
+main: me.nardodev.PrimeiroPlugin;
+name: PrimeiroPlugin
+version: 1.0-SNAPSHOT
+api-version: 1.8.8

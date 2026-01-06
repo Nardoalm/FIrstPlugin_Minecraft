@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PrimeiroPlugin">
+    <output-path>$USER_HOME$/Documents/PrimeiroPlugin</output-path>
+    <root id="archive" name="PrimeiroPlugin.jar" />
+  </artifact>
+</component>

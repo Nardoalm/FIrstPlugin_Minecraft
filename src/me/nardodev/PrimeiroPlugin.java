@@ -7,6 +7,6 @@ import org.bukkit.plugin.java.JavaPlugin;
 public class PrimeiroPlugin extends JavaPlugin {
     @Override
     public void onEnable(){
-        Bukkit.getServer().getConsoleSender().sendMessage(ChatColor.GREEN + this.getClass().getSimpleName() + " iniciado com sucesso!");
+        Bukkit.getServer().getConsoleSender().sendMessage(ChatColor.GREEN + this.getClass().getSimpleName() + ChatColor.LIGHT_PURPLE + " iniciado com sucesso!");
     }
 }

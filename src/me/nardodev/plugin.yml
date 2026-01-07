@@ -1,0 +1,8 @@
+name: PrimeiroPlugin
+version: 1.0
+main: me.nardodev.PrimeiroPlugin
+
+commands:
+  banc:
+    description: Bane um jogador
+    usage: /banc <jogador>
